@@ -2,17 +2,17 @@
 Detecting faces in an image using a pre-trained haar cascade model
 
 ## Table of contents
--[Overview](#Overview)
+- [Overview](#Overview)
 
--[Features](#Features)
+- [Features](#Features)
 
--[Requirements](#Requirements)
+- [Requirements](#Requirements)
 
--[Usage](#Usage)
+- [Usage](#Usage)
 
--[Results](#Results)
+- [Results](#Results)
 
--[Notes](#Notes)
+- [Notes](#Notes)
 
 ## 📖 Overview
 This project implements face detection in images using **OpenCV's Haar Cascade classifier**. It demonstrates how to detect and extract faces from an image, draw bounding boxes around detected faces, and display the results.
