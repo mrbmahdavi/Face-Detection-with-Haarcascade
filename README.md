@@ -3,10 +3,15 @@ Detecting faces in an image using a pre-trained haar cascade model
 
 ## Table of contents
 -[Overview](#Overview)
+
 -[Features](#Features)
+
 -[Requirements](#Requirements)
+
 -[Usage](#Usage)
+
 -[Results](#Results)
+
 -[Notes](#Notes)
 
 ## 📖 Overview
@@ -22,17 +27,15 @@ This project implements face detection in images using **OpenCV's Haar Cascade c
 
 ## 📋 Requirements
 * Python 3.x
-
 *  OpenCV (cv2) library
-
 * haarcascade_frontalface_default.xml (OpenCV's pre-trained Haar Cascade model)
 
 ## 🚀 Usage
-1. Place your image file in the project directory (default: 'gold.png') 📂
+1. Place your image file in the project directory (default: 'gold.png') 
 
 2. Update the image filename in the code if needed 
 
-3. Run the Jupyter notebook or Python script ▶️
+3. Run the Jupyter notebook or Python script 
 
 4. The program will:
 
